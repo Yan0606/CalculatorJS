@@ -1,4 +1,4 @@
-# Web Calculator
+# Web Calculator🧮
 
 This project is a simple calculator developed using HTML, CSS and JavaScript for a logic.
 
